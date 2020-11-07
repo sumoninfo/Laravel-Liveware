@@ -37,7 +37,7 @@ class Comments extends Component
         $comment = Comment::find($id);
         $comment->delete();
         $this->comments = $this->comments->except($id);
-        session()->flash('message', 'Comment added successfully');/
+        session()->flash('message', 'Comment Deleted successfully');
     }
 
     public function mount()
