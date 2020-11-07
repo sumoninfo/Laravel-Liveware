@@ -14,7 +14,18 @@
 </head>
 <body>
 {{--<livewire:counter/>--}}
-<livewire:comments/>
+<div class="flex justify-center">
+    <div class="w-10/12 my-10 flex">
+        <div class="w-5/12 rounded p-2">
+            <livewire:ticket/>
+        </div>
+        <div class="w-7/12 rounded p-2">
+            <livewire:comments/>
+        </div>
+    </div>
+</div>
+
+
 
 {{--<liveware:scripts/>--}}
 </body>

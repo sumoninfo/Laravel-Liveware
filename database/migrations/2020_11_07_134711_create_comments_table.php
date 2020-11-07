@@ -18,6 +18,7 @@ class CreateCommentsTable extends Migration
             $table->text('body');
             $table->string('image');
             $table->unsignedBigInteger('user_id');
+            $table->unsignedBigInteger('support_ticket_id');
             $table->timestamps();
         });
     }
