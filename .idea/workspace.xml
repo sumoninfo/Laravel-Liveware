@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0084ccc6-f4b5-4b49-89d2-5f300295249f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Comments.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/comments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/comments.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +144,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp_7_4\htdocs\Learn\LaravelLivewire\resources\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp_7_4\htdocs\Learn\LaravelLivewire\resources\views\livewire" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -169,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604753261711</updated>
-      <workItem from="1604753266292" duration="8001000" />
+      <workItem from="1604753266292" duration="9039000" />
     </task>
     <servers />
   </component>
