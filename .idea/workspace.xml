@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0084ccc6-f4b5-4b49-89d2-5f300295249f" name="Default Changelist" comment="" />
+    <list default="true" id="0084ccc6-f4b5-4b49-89d2-5f300295249f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/comments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/comments.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jxkj3iFDvSjopK1hfK7DeKNvZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -135,7 +140,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -166,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604753261711</updated>
-      <workItem from="1604753266292" duration="6951000" />
+      <workItem from="1604753266292" duration="7743000" />
     </task>
     <servers />
   </component>
@@ -174,9 +179,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="784" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604754501388">
+    <state x="826" y="110" key="FileChooserDialogImpl" timestamp="1604761109469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="784" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604754501388" />
+    <state x="826" y="110" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604761109469" />
+    <state x="784" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604760528419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="784" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604760528419" />
   </component>
 </project>
