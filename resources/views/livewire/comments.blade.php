@@ -9,9 +9,6 @@
         @endif
     </div>
     <section>
-        @if($image)
-            <img src="{{ $image }}" width="200px" alt="">
-        @endif
         <input type="file" id="image" wire:change="$emit('fileChoosen')">
     </section>
     <form class="my-4 flex" wire:submit.prevent="addComment">
@@ -35,7 +32,9 @@
                 ></i>
             </div>
             <p class="text-gray-800">{{ $comment->body }}</p>
-
+            @if($comment->image)
+                <img src="{{ $comment->imagePath }}" width="200px" alt="">
+            @endif
         </div>
     @endforeach
     {{ $comments->links('pagination-links') }}
